@@ -25,8 +25,8 @@ Ensure you have the following installed:
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/seir-simulation.git
-   cd seir-simulation
+   git clone https://github.com/MaximeJabarian/covid_simulation.git
+   cd covid_simulation
    ```
 
 2. Install the required Python libraries:
