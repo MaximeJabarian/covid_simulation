@@ -1,5 +1,5 @@
 # SEIR Epidemic Simulation with Real-Time Visualization
-
+![Demo of Covid Simulation](demo_fast.gif)
 ## Overview
 This project simulates the dynamics of an epidemic using the SEIR (Susceptible-Exposed-Infected-Recovered) model. The simulation combines:
 
