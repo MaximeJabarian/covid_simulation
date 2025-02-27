@@ -17,7 +17,7 @@ The simulation allows you to explore how parameters like vaccination rates, infe
 ## Requirements
 Ensure you have the following installed:
 
-- Python 3.8+
+- Python 3.9+
 - Pygame
 - Matplotlib
 - FFmpeg (optional, for creating GIFs from the simulation)
